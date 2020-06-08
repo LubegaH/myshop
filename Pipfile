@@ -12,6 +12,7 @@ pep8 = "*"
 pycodestyle = "*"
 pytz = "*"
 sqlparse = "*"
+django-allauth = "*"
 
 [requires]
 python_version = "3.6"
